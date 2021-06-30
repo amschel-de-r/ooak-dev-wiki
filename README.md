@@ -3,7 +3,7 @@
 Overview text
 
 ## Contents
-- Learning resources
+- [Learning resources](Resources/Resources.md)
 - C#
 - Github
 - Media
